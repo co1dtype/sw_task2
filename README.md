@@ -26,8 +26,8 @@
 기본적으로 3초마다 업데이트를 하며 여러가지 정보를 알려준다. 
 
 윗줄부터 한줄씩 해석해보자. 
+![image](https://user-images.githubusercontent.com/76248669/172055030-51f87bb3-cc3f-4638-a5dd-859f53002a0c.png)
 
-![image](D:\문서\github_blog\172048399-58836d8c-24ab-42f1-b3bc-ab4f0cfee9a3.png)
 
 왼쪽부터 시스템 현재 시간, 현재 접속중인 유저 세션 수를 나타낸다.
 
