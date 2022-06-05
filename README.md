@@ -215,3 +215,14 @@ q로 만들어서 @로 실행하는 것이다.
 
 `@a`를 입력하면 a라는 매크로를 실행하게 된다. 
 
+
+
+
+
+------
+
+참고
+
+https://sabarada.tistory.com/146
+https://ironmask84.tistory.com/355
+https://gracefulprograming.tistory.com/127
