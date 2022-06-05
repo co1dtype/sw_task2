@@ -25,7 +25,8 @@
 
 기본적으로 3초마다 업데이트를 하며 여러가지 정보를 알려준다. 
 
-윗줄부터 한줄씩 해석해보자. 
+윗줄부터 한줄씩 해석해보자.    
+
 ![image](https://user-images.githubusercontent.com/76248669/172055030-51f87bb3-cc3f-4638-a5dd-859f53002a0c.png)
 
 
