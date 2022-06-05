@@ -10,5 +10,7 @@
 - Linux: Ubuntu 20.04.4 LTS ([WSL](https://docs.microsoft.com/ko-kr/windows/wsl/install))
 - Vim:  8.1.3741
 
+------
+
 # 리눅스 명령어
 
