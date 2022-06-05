@@ -1,4 +1,3 @@
-[readme2.md](https://github.com/co1dtype/sw_task2/files/8839844/readme2.md)
 # 과제#2
 
 \- 리눅스 명령어와 vim 에디터에서 매크로 관련하여 조사
